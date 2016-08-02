@@ -1,0 +1,19 @@
+table td,th{
+  border : 1px solid #337ab7;
+} 
+
+table th{
+  text-align : center;
+}
+
+a{
+  padding: 10px;
+  background-color: grey;
+  color: black;
+  text-align: center;
+}
+
+a :hover{
+  text-decoration: none;
+  background-color: darkgrey;
+}
